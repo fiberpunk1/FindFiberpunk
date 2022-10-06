@@ -33,7 +33,7 @@
 
     var html =
         '<div style="padding:16px;">' +
-        '<div style="margin-bottom:16px;"><strong>IP Config:</strong> <input type="text" id="input-prefix" value="" placeholder="" style="width:120px;" /> .xxx</div>' +
+        '<div style="margin-bottom:16px;"><strong>IP Segment:</strong> <input type="text" id="input-prefix" value="" placeholder="" style="width:120px;" /> .xxx</div>' +
         '<button id="button-start" class="button button--primary" style="width:100%;margin-bottom:16px;">Start Finding</button>' +
         '<h2 style="margin-bottom:0;"><strong>Device List</strong></h2>' +
         '<ul id="result-list" class="icon-list lh-base">' +
